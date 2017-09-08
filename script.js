@@ -2,7 +2,7 @@ console.log('hello little little world!')
 document.write('<h1> Hi!</h1>')
 
 
-
+<p> Random Sentence </p>
 
 place_list = ["here","there","nowhere","lala land","caribbean"]
 
@@ -17,7 +17,7 @@ place_list = ["here","there","nowhere","lala land","caribbean"]
 
 
 
-
+<p> Prompt </p>
 place_list = ["here","there","nowhere","lala land","caribbean"]
 
 let place = prompt("Where are you from?")
